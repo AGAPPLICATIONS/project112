@@ -1,0 +1,21 @@
+h1{
+    background-color: aqua;
+    border: 5px dashed;
+    width: 80%;
+}
+body{
+background:linear-gradient(red,yellow,lightblue,lightgreen);
+}
+#livecamera{
+border: 5px dashed;
+width: 750px;
+height: 500px;
+}
+main{
+    align-content: space-between;
+}
+#imagecaptured{
+    border: 5px dashed;
+    width: 750px;
+    height: 500px;
+}
